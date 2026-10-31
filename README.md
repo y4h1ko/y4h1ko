@@ -1,16 +1,17 @@
-## Hi there 👋
+# About me
 
-<!--
-**y4h1ko/y4h1ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in probabilistic modeling, machine learning, and signal processing, with a focus on Python-based experimentation and data analysis.
 
-Here are some ideas to get you started:
+### Areas of interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python and scientific computing
+- Machine learning and Bayesian methods
+- Signal processing and time-series analysis
+
+### Selected projects
+
+**[Signal Inference with Transformers and Normalizing Flows](https://github.com/y4h1ko/Signal-inference-transformers-normalising-flows)**
+
+Academic project exploring signal inference using Transformers and normalizing flows, including experimental implementations and a technical report.
+
+More projects will be added as they become ready for publication.

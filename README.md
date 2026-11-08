@@ -15,3 +15,8 @@ I'm interested in probabilistic modeling, machine learning, and signal processin
 Academic project exploring signal inference using Transformers and normalizing flows, including experimental implementations and a technical report.
 
 More projects will be added as they become ready for publication.
+
+### Hackathons
+
+- **Qminers Algo Trade Arena · November 2026 · Prague**  
+Participated in a team developing and evaluating algorithmic trading strategies in Python using the organizers’ simulated exchange. [https://github.com/QminersOrg/qminers-algo-arena]
